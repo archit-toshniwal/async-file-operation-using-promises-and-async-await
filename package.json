@@ -1,0 +1,21 @@
+{
+  "name": "filehandle",
+  "version": "1.0.0",
+  "description": "To handle file operations",
+  "main": "file.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "append",
+    "read",
+    "insert",
+    "with",
+    "promises"
+  ],
+  "author": "Archit Toshniwal",
+  "license": "ISC"
+}
